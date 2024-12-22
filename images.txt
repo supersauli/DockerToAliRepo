@@ -11,5 +11,5 @@
 #kubesphere/ks-installer:v3.4.1
 redis:latest
 mysql:latest
-
-
+jaegertracing/all-in-one:latest
+otel/opentelemetry-collector-contrib
